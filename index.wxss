@@ -1,0 +1,6 @@
+/* components/echarts/index.wxss */
+.mychart-bar::after{
+  content:"";   
+  display:block; 
+  clear:both
+}

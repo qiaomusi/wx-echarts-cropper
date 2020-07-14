@@ -1,0 +1,10 @@
+<!--components/echarts/index.wxml-->
+<ec-canvas 
+  style="width:200rpx;height:200rpx;position:relative" 
+  id="mychart-dom-bar" 
+  class='mychart-bar' 
+  canvas-id="mychart-bar" 
+  ec="{{ ec }}"    
+  force-use-old-canvas="true"
+>
+</ec-canvas>
