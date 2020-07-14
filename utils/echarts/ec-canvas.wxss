@@ -1,0 +1,6 @@
+.ec-canvas {
+  position: static !important;
+  float: none;
+  width: 700rpx;
+  height: 700rpx;
+}
